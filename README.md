@@ -1,1 +1,5 @@
-0x11. C - printf, partnered project
+0x11. C - printf,
+funtion
+get flag
+utils
+write handler
